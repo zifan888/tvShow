@@ -1,0 +1,9 @@
+CCTV5,https://live.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8
+CCTV5+,https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV6,https://live.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV1,https://live.olelive.com:6443/live/CCTV1HD/hls.m3u8
+东方卫视,http://volc-stream.kksmg.com/live/dfws.m3u8?volcSecret=0ca348ad2835e58ba00e22c56dec9eb7&volcTime=1669084609
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+北京卫视,https://live.funhillrm.com/2/sd/live.m3u8
+江苏卫视,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+CCTV2,http://112.25.48.69/live/program/live/cctv2/1300000/mnf.m3u8
